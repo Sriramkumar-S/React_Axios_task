@@ -1,0 +1,35 @@
+header {
+    border: 1px solid;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.form-details {
+    border: 1px solid;
+    width: 98%;
+    margin-left: 1%;
+    margin-bottom: 1rem;
+}
+
+form {
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+form input {
+    width: 90%;
+    margin: 1rem 0;
+    padding: 8px;
+}
+
+button {
+    float: right;
+    margin: 1rem;
+    margin-left: 0;
+}
+
+li.list-group-item {
+    background-color: silver;
+}
