@@ -7,7 +7,7 @@ const UserCards = (userData) => {
         <>
             <div className="col-lg-3">
                 <div className="user">
-                    <div className="card" style={{ width: '18rem', margin: '1rem 0', textAlign: 'left', height: '100%', backgroundColor: 'silver' }}>
+                    <div className="card" style={{ width: '18rem', margin: '1rem 0', textAlign: 'left', height: '100%'}}>
                         <div className="card-body">
                             <h5 className="card-title">{userData.fullName}</h5>
                             <hr />
